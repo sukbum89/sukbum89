@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi everyone! 👋
 
 <!--
 **sukbum89/sukbum89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
